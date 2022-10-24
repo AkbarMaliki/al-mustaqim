@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors~d8119258.1bc0e800.css"
   },
   {
-    "revision": "99b055bb1af9a8f38d13",
+    "revision": "2f49022db81595253fd1",
     "url": "css/page-app-islamic-baca~31ecd969.0217606b.css"
   },
   {
@@ -96,7 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "9bc855fc0b02a3285b0bdffdb2ab2d70",
+    "revision": "4f7e1eb83a54fe5870af70e6db4e1b68",
     "url": "index.html"
   },
   {
@@ -588,8 +588,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/app~d0ae3f07.11f1566c.js"
   },
   {
-    "revision": "1449b5b8aa98344a9028",
-    "url": "js/app~e2550e02.9ce0ddf1.js"
+    "revision": "94e052f3ab6f0ab1918b",
+    "url": "js/app~e2550e02.f5470789.js"
   },
   {
     "revision": "105dabb94fd00f2708e3",
@@ -788,8 +788,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-app-islamic-bacaansholat~31ecd969.8a3d2ee7.js"
   },
   {
-    "revision": "99b055bb1af9a8f38d13",
-    "url": "js/page-app-islamic-baca~31ecd969.7dc6ad21.js"
+    "revision": "2f49022db81595253fd1",
+    "url": "js/page-app-islamic-baca~31ecd969.42ab175e.js"
   },
   {
     "revision": "391c7e8bbcedc54cc78e",

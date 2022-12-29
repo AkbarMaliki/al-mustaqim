@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "60aa85f7cd0e26542a42",
-    "url": "css/app~4695c423.dce3cba0.css"
+    "revision": "1bc26b4b7edcdaa51a18",
+    "url": "css/app~4695c423.f8fe23a9.css"
   },
   {
     "revision": "e3065f7e9f42dbc35259",
@@ -88,6 +88,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/typicons.a509074c.eot"
   },
   {
+    "revision": "98894dfd606a01f2d6e6cbf2bb371d09",
+    "url": "img/1.98894dfd.png"
+  },
+  {
+    "revision": "c5cfb30597bcaa82ceb20e212a7333e2",
+    "url": "img/asmaul husna.c5cfb305.png"
+  },
+  {
+    "revision": "a98449650584fc7b8e9850dd5632a95d",
+    "url": "img/muhammadSAW.a9844965.png"
+  },
+  {
     "revision": "3473202c5a6ada3c780dba9915c885e6",
     "url": "img/playstore.3473202c.png"
   },
@@ -96,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "8f23caca1974285424bbd5162ef76e03",
+    "revision": "319dabdee961c317996e6bb6477dca0f",
     "url": "index.html"
   },
   {
@@ -560,7 +572,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "islamic2/listSurah.json"
   },
   {
-    "revision": "60aa85f7cd0e26542a42",
+    "revision": "1bc26b4b7edcdaa51a18",
     "url": "js/app~4695c423.49bbf018.js"
   },
   {
@@ -588,8 +600,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/app~d0ae3f07.11f1566c.js"
   },
   {
-    "revision": "e2c9c3da6f5013bdbf90",
-    "url": "js/app~e2550e02.d7311fcd.js"
+    "revision": "361d069aaf289b7e8ff1",
+    "url": "js/app~e2550e02.1d1566f5.js"
   },
   {
     "revision": "105dabb94fd00f2708e3",
@@ -816,8 +828,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-app-islamic-dzikirpetang~31ecd969.5fb66f66.js"
   },
   {
-    "revision": "ef92228054fcf1c7c009",
-    "url": "js/page-app-islamic-index~21833f8f.76c9a073.js"
+    "revision": "f8a7233afcee1c6894a3",
+    "url": "js/page-app-islamic-index~21833f8f.d306f611.js"
   },
   {
     "revision": "21cf4010fbc566e2c0ad",
